@@ -1,0 +1,4 @@
+public enum Categories
+{
+    NATURE , FASHION , LANGUAGE , ANIMAL , SPORT , FOOD , ENTERTAINMENT
+}
